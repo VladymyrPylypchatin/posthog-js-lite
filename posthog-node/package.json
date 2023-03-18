@@ -1,6 +1,6 @@
 {
   "name": "ventur-posthog-node",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "description": "PostHog Node.js integration",
   "repository": "VolodymyrPylypchatin/posthog-node",
   "scripts": {
@@ -10,11 +10,6 @@
     "node": ">=15.0.0"
   },
   "license": "MIT",
-  "author": {
-    "name": "PostHog",
-    "email": "hey@posthog.com",
-    "url": "https://posthog.com"
-  },
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
