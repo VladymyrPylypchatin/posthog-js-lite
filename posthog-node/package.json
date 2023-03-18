@@ -1,8 +1,8 @@
 {
-  "name": "posthog-node",
+  "name": "ventur-posthog-node",
   "version": "2.6.1",
   "description": "PostHog Node.js integration",
-  "repository": "PostHog/posthog-node",
+  "repository": "VolodymyrPylypchatin/posthog-node",
   "scripts": {
     "prepublishOnly": "cd .. && yarn build"
   },
